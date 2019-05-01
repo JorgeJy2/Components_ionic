@@ -1,0 +1,91 @@
+[{
+    "icon": "american-football",
+    "name": "Action Sheet",
+    "redirecTo": "/action-sheet"
+  }, {
+    "icon": "appstore",
+    "name": "Alert",
+    "redirecTo": "/alert"
+  }, {
+    "icon": "beaker",
+    "name": "Avatar",
+    "redirecTo": "/avatar"
+  }, {
+    "icon": "radio-button-on",
+    "name": "Botones y router",
+    "redirecTo": "/botones"
+  }, {
+    "icon": "card",
+    "name": "Cards",
+    "redirecTo": "/card"
+  }, {
+    "icon": "checkmark-circle-outline",
+    "name": "CheckBox",
+    "redirecTo": "/check"
+  },{
+    "icon": "calendar",
+    "name": "DateTime",
+    "redirecTo": "/date-time"
+  },{
+    "icon": "car",
+    "name": "Fabs",
+    "redirecTo": "/fab"
+  },{
+    "icon": "grid",
+    "name": "Grid - Rows",
+    "redirecTo": "/grid"
+  },{
+    "icon": "infinite",
+    "name": "intinite Scroll",
+    "redirecTo": "/infinite-scroll"
+  },{
+    "icon": "hammer",
+    "name": "Input - Forms",
+    "redirecTo": "/input"
+  },{
+    "icon": "list",
+    "name": "Lista - sliding",
+    "redirecTo": "/list"
+  },{
+    "icon": "reorder",
+    "name": "Lista - Reorder",
+    "redirecTo": "/list-reorder"
+  },{
+    "icon": "refresh-circle",
+    "name": "Loading",
+    "redirecTo": "/loading"
+  },{
+    "icon": "phone-portrait",
+    "name": "Modal",
+    "redirecTo": "/modal"
+  },{
+    "icon": "tablet-portrait",
+    "name": "PopOver",
+    "redirecTo": "/popover" 
+  },{
+    "icon": "code-working",
+    "name": "Progres Bar  y Range",
+    "redirecTo": "/progres-bar"
+  },{
+    "icon": "arrow-round-down",
+    "name": "Refresher",
+    "redirecTo": "/refresher"
+  },{
+    "icon": "search",
+    "name": "Search",
+    "redirecTo": "/serchbar"
+  },{
+    "icon": "copy",
+    "name": "Segment",
+    "redirecTo": "/segment"
+  },
+  {
+    "icon": "albums",
+    "name": "Slides",
+    "redirecTo": "/slides"
+  },{
+    "icon": "cog",
+    "name": "Tabs",
+    "redirecTo": "/tabs/account"
+  }
+]
